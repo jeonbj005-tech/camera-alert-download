@@ -1,10 +1,10 @@
 {
   "packageName": "com.oemtools.cameraalert",
-  "versionCode": 67,
-  "versionName": "1.3.39-buslane-overlay",
+  "versionCode": 68,
+  "versionName": "1.3.40-buslane-popup-toggle",
   "minimumSdk": 26,
   "apkUrl": "https://github.com/jeonbj005-tech/camera-alert-download/releases/latest/download/camera-alert-release.apk",
-  "sha256": "6860ef1a92542e24904912ce6a52eb4557fe3b08a64d690fe4c9e66a44849f59",
-  "size": 24799664,
+  "sha256": "6bcb418e98d65426f753f0814eed875cb61a3a652280b22ed2bacbea760fa37b",
+  "size": 24800108,
   "signingCertificateSha256": "ba8a79686fb8a03a76a8be89c292f835ef4de0d30dc5404235a98b241cc2dfa2"
 }

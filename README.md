@@ -2,16 +2,24 @@
 
 Source code remains in the private `camera-alert` repository.
 
+## v1.3.40 — bus lane popup setting
+
+- [Download APK](https://raw.githubusercontent.com/jeonbj005-tech/camera-alert-download/main/camera-alert-v1.3.40-buslane-popup-toggle.apk)
+- Package: `com.oemtools.cameraalert`; versionCode 68; minimum Android API 26; ARM64
+- Size: 24,800,108 bytes
+- SHA-256: `6BCB418E98D65426F753F0814EED875CB61A3A652280B22ED2BACBEA760FA37B`
+- Signing certificate SHA-256: `ba8a79686fb8a03a76a8be89c292f835ef4de0d30dc5404235a98b241cc2dfa2`
+- Adds the bus-lane popup visibility toggle to both the main settings and floating settings. The shared preference defaults to on, and changes apply immediately.
+- Hiding this popup does not affect the speeding-camera overlay. The existing bus-lane data availability on Polestar 4 still requires an in-car check.
+- The APK passes signing and alignment checks and uses the same signing key as v1.3.39, so it can update that version in place.
+
 ## v1.3.39 — bus lane overlay
 
 - [Download APK](https://raw.githubusercontent.com/jeonbj005-tech/camera-alert-download/main/camera-alert-v1.3.39-buslane-overlay.apk)
 - Package: `com.oemtools.cameraalert`; versionCode 67; minimum Android API 26; ARM64
 - Size: 24,799,664 bytes
 - SHA-256: `6860EF1A92542E24904912CE6A52EB4557FE3B08A64D690FE4C9E66A44849F59`
-- Signing certificate SHA-256: `ba8a79686fb8a03a76a8be89c292f835ef4de0d30dc5404235a98b241cc2dfa2`
 - Adds a compact, separate bus-lane status overlay and keeps the existing camera warning overlay.
-- The APK passes signing and alignment checks. Bus-lane data availability and the display on Polestar 4 still require an in-car check.
-- It uses the same signing key as v1.3.38 and can update that version in place.
 
 ## v1.3.38 — media-audio
 
