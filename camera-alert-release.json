@@ -1,10 +1,10 @@
 {
   "packageName": "com.oemtools.cameraalert",
-  "versionCode": 64,
-  "versionName": "1.3.36-speed-alert-only",
+  "versionCode": 67,
+  "versionName": "1.3.39-buslane-overlay",
   "minimumSdk": 26,
-  "apkUrl": "https://raw.githubusercontent.com/jeonbj005-tech/camera-alert-download/main/camera-alert-release.apk",
-  "sha256": "28d7364491710b4604bee55ed906fcab68e865beb8f5d2c67f29f6aeaa6d91c8",
-  "size": 24796280,
-  "signingCertificateSha256": "c862ca3f95b9d8df507c7f7392c79e3fbe8b1c0a4a32281280c795d2d322e1cf"
+  "apkUrl": "https://github.com/jeonbj005-tech/camera-alert-download/releases/latest/download/camera-alert-release.apk",
+  "sha256": "6860ef1a92542e24904912ce6a52eb4557fe3b08a64d690fe4c9e66a44849f59",
+  "size": 24799664,
+  "signingCertificateSha256": "ba8a79686fb8a03a76a8be89c292f835ef4de0d30dc5404235a98b241cc2dfa2"
 }
