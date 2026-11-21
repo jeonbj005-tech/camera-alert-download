@@ -1,4 +1,13 @@
 # Camera Alert APK releases
+## v1.3.41 — GPS 24-hour bus-lane warning
+
+- [Download the installable APK](https://github.com/jeonbj005-tech/camera-alert-download/releases/latest/download/camera-alert-release.apk)
+- [Direct versioned APK file](https://raw.githubusercontent.com/jeonbj005-tech/camera-alert-download/main/camera-alert-v1.3.41-gps-buslane-warning.apk)
+- Package: `com.oemtools.cameraalert`; versionCode 69; minimum Android API 26; ARM64
+- Size: 24,819,073 bytes; SHA-256: `B8DAA75930DF668CB41FEDBF60B1DADDCEC3AC5A1DE91BAD1CD545A7FA113E5B`
+- Adds GPS proximity alerts for official all-day bus-lane segments. The bundled national data contains 24 segments, including 4 in Sejong. The existing small floating indicator appears within 200 m when GPS accuracy and direction checks pass, then clears after passing the segment.
+- The APK signing certificate matches v1.3.40; it can update that installation in place.
+- Actual Polestar GPS reception and route-level false-positive/missed-alert behavior still need vehicle verification.
 
 Source code remains in the private `camera-alert` repository.
 
